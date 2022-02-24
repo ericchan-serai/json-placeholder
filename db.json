@@ -1,0 +1,135 @@
+{
+  "rfqList": {
+    "status": {
+      "code": 1000,
+      "systemMessage": "Success",
+      "displayMessage": "Success",
+      "t": "2022-02-24T08:43:30.913Z"
+    },
+    "data": {
+      "rfq": [
+        {
+          "isAttachments": false,
+          "createDate": "2022-02-24T08:39:00.397Z",
+          "updateDate": "2022-02-24T08:39:00.428Z",
+          "version": "2",
+          "createBy": "7f0837ac-4b14-4995-9c3d-fe6d4e58ebbc",
+          "updateBy": "7f0837ac-4b14-4995-9c3d-fe6d4e58ebbc",
+          "id": "0de0a36e-7188-4afa-92fa-36d5e03ad309",
+          "rfqRefId": null,
+          "status": "active",
+          "viewCount": "0",
+          "info": {
+            "rfqId": "0de0a36e-7188-4afa-92fa-36d5e03ad309",
+            "productName": "e qq qq qq. q",
+            "productType": "apparel-woven",
+            "description": "sdasasdfasdf sdf asf asf asdf asf asfasdf",
+            "otherRequirement": null,
+            "techpack": false,
+            "helpTechpack": false,
+            "sourcingEvent": false,
+            "mobileNumber": null,
+            "quantity": "1",
+            "quantityUnits": "lbs",
+            "paymentTerms": "deferred",
+            "paymentTermsOption": null,
+            "paymentMethodsOption": null,
+            "minUnitPrice": 2,
+            "maxUnitPrice": 4,
+            "isNegotiation": false,
+            "shippingMode": "sea",
+            "deliveryTerm": "fob",
+            "leadTime": 1,
+            "displayCompanyName": true
+          },
+          "company": {
+            "createDate": "2022-02-10T07:41:40.014Z",
+            "updateDate": "2022-02-24T08:03:26.370Z",
+            "version": "3",
+            "id": "8ce52a1b-52e1-4379-8080-9d9f3207b52a",
+            "name": "Serai",
+            "status": "completed",
+            "productCount": "0",
+            "syncVersion": "0",
+            "isEntitleLimitEmailSent": true,
+            "lastRfqEntitleLimitEmailSentDate": "2022-02-24T08:03:26.366Z",
+            "countryId": "HK"
+          },
+          "paymentMethods": [
+            {
+              "rfqId": "0de0a36e-7188-4afa-92fa-36d5e03ad309",
+              "paymentMethod": "cash-payment"
+            }
+          ],
+          "destinations": ["EU"],
+          "buyerCountry": "HK",
+          "attachedImage": { "files": [] }
+        },
+        {
+          "isAttachments": false,
+          "createDate": "2022-02-24T08:31:37.264Z",
+          "updateDate": "2022-02-24T08:31:37.307Z",
+          "version": "2",
+          "createBy": "7f0837ac-4b14-4995-9c3d-fe6d4e58ebbc",
+          "updateBy": "7f0837ac-4b14-4995-9c3d-fe6d4e58ebbc",
+          "id": "da7db474-e657-403a-85e7-d2ee6fa05b7c",
+          "rfqRefId": null,
+          "status": "active",
+          "viewCount": "0",
+          "info": {
+            "rfqId": "da7db474-e657-403a-85e7-d2ee6fa05b7c",
+            "productName": "asdfas",
+            "productType": "footwear-accessories-belts-wallets",
+            "description": "adafsadfasd fasf asfas dfasf",
+            "otherRequirement": null,
+            "techpack": false,
+            "helpTechpack": false,
+            "sourcingEvent": false,
+            "mobileNumber": null,
+            "quantity": "2",
+            "quantityUnits": "kg",
+            "paymentTerms": "advance",
+            "paymentTermsOption": null,
+            "paymentMethodsOption": null,
+            "minUnitPrice": 2,
+            "maxUnitPrice": 45,
+            "isNegotiation": false,
+            "shippingMode": "sea",
+            "deliveryTerm": "c-f",
+            "leadTime": 2,
+            "displayCompanyName": true
+          },
+          "company": {
+            "createDate": "2022-02-10T07:41:40.014Z",
+            "updateDate": "2022-02-24T08:03:26.370Z",
+            "version": "3",
+            "id": "8ce52a1b-52e1-4379-8080-9d9f3207b52a",
+            "name": "Serai",
+            "status": "completed",
+            "productCount": "0",
+            "syncVersion": "0",
+            "isEntitleLimitEmailSent": true,
+            "lastRfqEntitleLimitEmailSentDate": "2022-02-24T08:03:26.366Z",
+            "countryId": "HK"
+          },
+          "paymentMethods": [
+            {
+              "rfqId": "da7db474-e657-403a-85e7-d2ee6fa05b7c",
+              "paymentMethod": "cash-payment"
+            }
+          ],
+          "destinations": ["AA"],
+          "buyerCountry": "HK",
+          "attachedImage": { "files": [] }
+        }
+      ],
+      "paginate": {
+        "itemCount": 15,
+        "totalItems": 52,
+        "itemsPerPage": 15,
+        "totalPages": 4,
+        "currentPage": 1
+      }
+    }
+  }
+}
